@@ -1,3 +1,4 @@
 {
-    "open-in-browser.default": "google chrom stable"
+    "open-in-browser.default": "google chrom stable",
+    "view-in-browser.customBrowser": "chrome"
 }
