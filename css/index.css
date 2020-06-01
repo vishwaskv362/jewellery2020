@@ -167,9 +167,9 @@ header_4 .carousel-indicators .active {
 }
 
 .header_4_top_main_2_left_inner .btn-theme:hover {
-    color: #000;
-    background-color: #fff;
-    border-color: #fff;
+    color: #ffff;
+    background-color: #000;
+    border-color: #000;
 }
 .header_4_top_main_2_right_inner p{
   font-size:44px;
@@ -210,7 +210,7 @@ header_4 .carousel-indicators .active {
 }
 
 .header_4_top_main_2_right_inner .btn-theme:hover {
-    color: rgb(10, 10, 10);
+    color: #ffff;
     background-color: #000;
     border-color: #000;
 }
